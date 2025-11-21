@@ -4,7 +4,8 @@
 Bem-vindo ao nosso repositório! Aqui você encontrará nossos códigos para a temporada atual da FIRST Tech Challenge - DECODE.
 
 - 🧡 **Mascote:** Raposa
-- 🤖 **Foco:** Programação limpa e estratégias ágeis
+- 🤖 **Missão:** Inovar com agilidade
+-  💻 **Linguagem:** Java
 - 📍 **Local:** Goiania-GO
 
 🦊
