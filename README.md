@@ -1,11 +1,11 @@
 # Olá, nós somos a Equipe NEXUS #23501! 🦊
-# NexusFtc 🦊
+# NexusFtc 
 
 Bem-vindo ao nosso repositório! Aqui você encontrará nossos códigos para a temporada atual da FIRST Tech Challenge - DECODE.
 
-- 🧡 **Mascote:** Raposa
+- 🦊 **Mascote:** Raposa
 - 🤖 **Missão:** Inovar com agilidade
--  💻 **Linguagem:** Java
+- 💻 **Linguagem:** Java
 - 📍 **Local:** Goiania-GO
 
 
